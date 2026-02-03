@@ -55,3 +55,7 @@ Este projeto utiliza **dados fictícios**, criados exclusivamente para fins de *
 **Kauã Muniz**  
 Estudante de Ciência Da Computação 
 Interesse em **Dados, BI e Analytics**
+
+## 📷 Preview do Dashboard
+![Dashboard](caminho_da_imagem.png)
+
