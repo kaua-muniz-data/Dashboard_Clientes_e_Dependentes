@@ -57,5 +57,6 @@ Estudante de Ciência Da Computação
 Interesse em **Dados, BI e Analytics**
 
 ## 📷 Preview do Dashboard
-![Dashboard](/imagem)
+![Dashboard – Clientes e Dependentes](imagem.png)
+
 
