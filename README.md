@@ -1,51 +1,51 @@
-📊 Dashboard – Clube de Associados (Power BI)
-📌 Visão Geral
+# 📊 Dashboard – Clube de Associados (Power BI)
+## 📌 Visão Geral
 
-Este projeto consiste em um dashboard interativo desenvolvido no Power BI para análise da base de clientes de uma empresa fictícia (Clube de Associados).
-O objetivo é visualizar e explorar dados de clientes, segmentando por gênero, nível de serviço e quantidade de dependentes, facilitando análises gerenciais e tomada de decisão.
+## Este projeto consiste em um dashboard interativo desenvolvido no Power BI para análise da base de clientes de uma empresa fictícia (Clube de Associados).
+## O objetivo é visualizar e explorar dados de clientes, segmentando por gênero, nível de serviço e quantidade de dependentes, facilitando análises gerenciais e tomada de decisão.
 
-🎯 Objetivo do Dashboard
+# 🎯 Objetivo do Dashboard
 
-Analisar a distribuição de clientes por nível de serviço (Básico, Plus e Premium)
+## - Analisar a distribuição de clientes por nível de serviço (Básico, Plus e Premium)
 
-Comparar a quantidade de clientes por gênero
+## - Comparar a quantidade de clientes por gênero
 
-Avaliar a quantidade de dependentes por cliente
+## - Avaliar a quantidade de dependentes por cliente
 
-Fornecer uma visão rápida e clara através de indicadores (KPIs)
+## - Fornecer uma visão rápida e clara através de indicadores (KPIs)
 
-📈 Principais Indicadores (KPIs)
+# 📈 Principais Indicadores (KPIs)
 
-Total de Clientes
+## - Total de Clientes
 
-Quantidade de Clientes Masculinos
+## - Quantidade de Clientes Masculinos
 
-Quantidade de Clientes Femininos
+## - Quantidade de Clientes Femininos
 
-Total de Dependentes
+## - Total de Dependentes
 
-📊 Visualizações Criadas
+# 📊 Visualizações Criadas
 
-Gráfico de barras: Total de clientes por nível de serviço
+## - Gráfico de barras: Total de clientes por nível de serviço
 
-Gráfico de barras horizontais: Quantidade de dependentes por cliente
+## - Gráfico de barras horizontais: Quantidade de dependentes por cliente
 
-Cartões de indicadores (KPIs) para visão geral
+## - Cartões de indicadores (KPIs) para visão geral
 
-Segmentações interativas para facilitar a exploração dos dados
+## - Segmentações interativas para facilitar a exploração dos dados
 
-🛠️ Ferramentas Utilizadas
+# 🛠️ Ferramentas Utilizadas
 
-Power BI Desktop
+## Power BI Desktop
 
-Modelagem de dados
+## Modelagem de dados
 
-Criação de medidas e indicadores
+## Criação de medidas e indicadores
 
-Visualizações interativas
+## Visualizações interativas
 
-🗂️ Arquivo do Projeto
+# 🗂️ Arquivo do Projeto
 
-Dashboard_Clube_Associados.pbix
+## Dashboard_Clube_Associados.pbix
 
-Para visualizar o dashboard, é necessário ter o Power BI Desktop instalado.
+## Para visualizar o dashboard, é necessário ter o Power BI Desktop instalado.
